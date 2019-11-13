@@ -22,7 +22,7 @@ function getLevel($score){
 //  }
 //}
 
-    switch($score/10){
+    switch(intval($score/10)){
         case 10:
         case 9:
           return '优秀';
