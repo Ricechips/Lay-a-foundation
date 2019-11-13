@@ -1,3 +1,5 @@
+<?php
+
 function KickinPHP(){
   echo 'Hello PHP<br>';
   echo 'Hello World<br>';
