@@ -10,3 +10,4 @@ echo '<br>';
 
 define('THE_VALUE',200);
 echo THE_VALUE;
+ 
