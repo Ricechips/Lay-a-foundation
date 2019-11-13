@@ -1,2 +1,1 @@
-# vars-and-constants
-# function
+elementary knowledge
