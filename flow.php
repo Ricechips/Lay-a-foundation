@@ -27,7 +27,7 @@ function getLevel($score){
         case 9:
           return '优秀';
         case 8:
-          return '良好;
+          return '良好';
         case 7:
           return '好';
         case 6:
