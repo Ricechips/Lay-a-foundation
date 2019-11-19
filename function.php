@@ -11,14 +11,14 @@ KickinPHP();
 //$func();
 
 function sayHomieTo($name){
-  echo 'Homie '.$name.'<br>;
+  echo 'Homie '.$name.'<br>';
 }
 
 sayHomieTo('Ricechips');
 sayHomieTo('yzfhq');
 
 function traceNum($a,$b){
-//  echo 'a = '.$a.' , b = '.$b'<br>;
+//  echo 'a = '.$a.' , b = '.$b.'<br>';
   
   echo "a = $a , b = $b <br>";
 }
